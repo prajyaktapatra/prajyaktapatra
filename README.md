@@ -1,10 +1,5 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prajyaktapatra/prajyaktapatra/main/profile.jpg"
-       alt="Prajyakta Patra "
-       width="200"
-       style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Prajyakta Patra</h1>
 
