@@ -59,7 +59,7 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dar](https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" />
 </p>
 
 
