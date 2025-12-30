@@ -1,17 +1,18 @@
 
 
-
 <h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
-<h3 align="center">MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀</h3>
+<h3 align="center">
+MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
+</h3>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:prajyakta2024@gift.edu.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <a href="https://www.linkedin.com/in/prajyakta-patra-b31ba2347">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link">
+  <a href="https://github.com/prajyaktapatra">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
@@ -20,12 +21,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student at **GIFT Autonomous**
-- 🌱 Currently learning **Advanced MERN Stack**
+- 🎓 MCA Student at **GIFT Autonomous College**
+- 🌱 Currently learning **Advanced MERN Stack Development**
 - 💻 Passionate about **Full Stack Web Development**
 - 🧠 Ask me about **HTML, CSS, JavaScript, React, Node.js**
-- 🔌 Interested in **IoT & ESP32 Projects**
-- ✨ Fun fact: I love converting ideas into interactive web experiences!
+- 🔌 Interested in **IoT Projects using ESP32**
+- ✨ Fun fact: I love converting ideas into **interactive, real-world web applications**
+
 
 
 ## 🛠️ Technologies & Tools
@@ -48,7 +50,7 @@
 
 ## 📌 Projects
 
-- 🌡️ **Digital Thermometer & Display using ESP32 (C language)**
+- 🌡️ **Digital Thermometer & Display using ESP32 (C Language)**
 - 🌱 **IoT-based Vertical Farming System**
 - 🍽️ **Taste Trail – Food Ordering Website**
 
@@ -57,63 +59,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" />
 </p>
 
 
 
-⭐ *Turning ideas into responsive, full-stack web apps*
-
-### Frontend
-- HTML5  
-- CSS3 / Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
-
-### Backend & Database
-- Node.js  
-- Express.js  
-- MongoDB  
-
-### Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
-
-
-## 📂 Projects
-
-### 🔹 Portfolio Website
-- Personal portfolio using **HTML, Tailwind CSS, and JavaScript**
-- Responsive design with clean UI
-
-### 🔹 E-Learning Management System
-- LMS platform for students and instructors
-- Features: authentication, course management
-
-### 🔹 E-Commerce Website
-- Product catalog, cart, and checkout workflow
-- Modern frontend architecture
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact" />
-</p>
-
-
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/prajyaktapatra  
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
-
-
-
-⭐ *Thank you for visiting my GitHub profile!*
+⭐ *Turning ideas into responsive, scalable, full-stack web applications*
