@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
+give me in one code<h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
 <h3 align="center">
 MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 </h3>
@@ -11,72 +11,60 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/prajyaktapatra">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
----
 
-## 👩‍💻 About Me ✔️
 
-✔️ MCA Student at **GIFT Autonomous College**  
-✔️ Learning **Advanced MERN Stack Development**  
-✔️ Passionate about **Full Stack Web Development**  
-✔️ Skills in **HTML, CSS, JavaScript, React, Node.js**  
-✔️ Interested in **IoT Projects using ESP32**  
-✔️ Love building **interactive real-world web applications**
+## 👩‍💻 About Me
 
----
+- 🎓 MCA Student at **GIFT Autonomous College**
+- 🌱 Currently learning **Advanced MERN Stack Development**
+- 💻 Passionate about **Full Stack Web Development**
+- 🧠 Ask me about **HTML, CSS, JavaScript, React, Node.js**
+- 🔌 Interested in **IoT Projects using ESP32**
+- ✨ Fun fact: I love converting ideas into **interactive, real-world web applications**
 
-## 🛠️ Technologies & Tools 💻
+
+
+## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,c,tailwind,git,github" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
 
-## 📌 Projects 🚀
 
-### 🌡️ Digital Thermometer & Display
-✔️ ESP32 + C Language  
-✔️ I2C LCD Integration  
+## 📌 Projects
 
-### 🌱 IoT-Based Vertical Farming System
-✔️ Smart Sensors & Automation  
-✔️ Real-time Monitoring  
+- 🌡️ **Digital Thermometer & Display using ESP32 (C Language)**
+- 🌱 **IoT-based Vertical Farming System**
+- 🍽️ **Taste Trail – Food Ordering Website**
 
-### 🍽️ Taste Trail – Food Ordering Website
-✔️ HTML, CSS, JavaScript  
-✔️ Hotel & Menu Listing  
-✔️ Interactive Zomato-like UI  
 
----
 
-## 📊 GitHub Stats 📈
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=radical&hide_border=false&count_private=true&hide_title=false&bg_color=0d1117&title_color=ff79c6&icon_color=50fa7b&text_color=c0c0c0" alt="Prajyakta's GitHub Stats" width="380" style="margin-right:10px;" />
+  
+  <img src="https://streak-stats.demolab.com/?user=prajyaktapatra&theme=radical&hide_border=false&background=0d1117&stroke=ff79c6&ring=50fa7b&fire=ffb86c&currStreakLabel=ffffff" alt="Prajyakta's GitHub Streak" width="380" style="margin-right:10px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=ff79c6&text_color=c0c0c0&langs_count=6" alt="Top Languages" width="380" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prajyaktapatra&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact&theme=dark" />
-</p>
 
----
 
-## ✨ Work Style & Focus ✔️
-
-✔️ Clean UI Design  
-✔️ Responsive Web Apps  
-✔️ Scalable MERN Projects  
-✔️ Real-World Problem Solving  
-✔️ Continuous Learning  
-
----
-
-⭐ *Turning ideas into responsive, scalable, full-stack web applications*
+⭐ *Turning ideas into responsive, scalable, full-stack web applications* in statics tick give me with image add according to my work plsss
