@@ -1,24 +1,8 @@
-<!-- ====== BANNER ====== -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/prajyaktapatra/prajyaktapatra/main/banner.png"
-    alt="Prajyakta Patra GitHub Banner"
-    width="100%"
-  />
-</p>
-
-<!-- ====== INTRO ====== -->
 <h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
-
 <h3 align="center">
-  MCA Student | MERN Stack Learner | Full Stack Enthusiast 🚀
+MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 </h3>
 
-<p align="center">
-  Turning ideas into responsive, scalable, full-stack web applications ⭐
-</p>
-
-<!-- ====== SOCIAL LINKS ====== -->
 <p align="center">
   <a href="mailto:prajyakta2024@gift.edu.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -27,11 +11,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/prajyaktapatra">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -40,45 +24,42 @@
 - 💻 Passionate about **Full Stack Web Development**
 - 🧠 Ask me about **HTML, CSS, JavaScript, React, Node.js**
 - 🔌 Interested in **IoT Projects using ESP32**
-- ✨ Love building **real-world, interactive applications**
+- ✨ Fun fact: I love converting ideas into **interactive, real-world web applications**
 
----
+
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,c,java,tailwind,git,github" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
+
 
 ## 📌 Projects
 
-- 🌡️ **Digital Thermometer & Display (ESP32 | C Language)**
-- 🌱 **IoT-Based Vertical Farming System**
-- 🍽️ **Taste Trail – Food Ordering Website (MERN Inspired)**
+- 🌡️ **Digital Thermometer & Display using ESP32 (C Language)**
+- 🌱 **IoT-based Vertical Farming System**
+- 🍽️ **Taste Trail – Food Ordering Website**
 
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyaktapatra&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dar](https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" />
 </p>
 
----
 
-## 🌐 Currently Exploring
 
-- MERN Stack Best Practices  
-- API Integration & Authentication  
-- Responsive UI with Tailwind CSS  
-- IoT + Web Integration  
-
----
-
-<p align="center">
-  💙 <b>Thank you for visiting my profile!</b> <br/>
-  ⭐ Don’t forget to star my repositories
-</p>
+⭐ *Turning ideas into responsive, scalable, full-stack web applications*
