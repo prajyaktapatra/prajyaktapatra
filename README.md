@@ -56,4 +56,4 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 
 
 
-⭐ *Turning ideas into responsive, scalable, full-stack web applications* in statics tick give me with image add according to my work plsss
+⭐ *Turning ideas into responsive, scalable, full-stack web applications* 
