@@ -54,12 +54,6 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dar](https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=dark" />
-</p>
-
 
 
 ⭐ *Turning ideas into responsive, scalable, full-stack web applications* in statics tick give me with image add according to my work plsss
