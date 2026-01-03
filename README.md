@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-link-here.png" alt="Prajyakta Patra Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
 <h3 align="center">
 MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
@@ -48,12 +52,15 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 
 ## 📌 Projects
 
-- 🌡️ **Digital Thermometer & Display using ESP32 (C Language)**
-- 🌱 **IoT-based Vertical Farming System**
-- 🍽️ **Taste Trail – Food Ordering Website**
+- 🌡️ **[Digital Thermometer & Display using ESP32](https://github.com/prajyaktapatra/Digital-Thermometer-ESP32)**  
+  *C language based IoT project with LCD (I2C)*
+
+- 🌱 **[IoT-based Vertical Farming System](https://github.com/prajyaktapatra/IoT-Vertical-Farming)**  
+  *Smart agriculture system using sensors and automation*
+
+- 🍽️ **[Taste Trail – Food Ordering Website](https://github.com/prajyaktapatra/Taste-Trail)**  
+  *Frontend food ordering web app using HTML, CSS & JavaScript*
 
 
 
-
-
-⭐ *Turning ideas into responsive, scalable, full-stack web applications* 
+⭐ *Turning ideas into responsive, scalable, full-stack web applications*
