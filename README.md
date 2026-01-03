@@ -1,14 +1,7 @@
-
-<p align="center">
-  <img src="professional-banner.png" alt="Professional Developer Banner" width="100%" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
 <h3 align="center">
 MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 </h3>
-
 
 <p align="center">
   <a href="mailto:prajyakta2024@gift.edu.in">
@@ -37,7 +30,7 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -61,4 +54,6 @@ MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
 
 
 
-⭐ *Turning ideas into responsive, scalable, full-stack web applications*
+
+
+⭐ *Turning ideas into responsive, scalable, full-stack web applications* 
