@@ -1,59 +1,74 @@
-<h1 align="center">Hi 👋, I'm Prajyakta Patra</h1>
-<h3 align="center">
-MERN Stack Learner | MCA Student | Full Stack Enthusiast 🚀
-</h3>
+# Hi 👋, I'm Prajyakta Patra
 
-<p align="center">
-  <a href="mailto:prajyakta2024@gift.edu.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/prajyakta-patra-b31ba2347">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/prajyaktapatra">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+💻 MERN Stack Learner | MCA Student | AI/ML Enthusiast 🚀
 
 
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student at **GIFT Autonomous College**
-- 🌱 Currently learning **Advanced MERN Stack Development**
-- 💻 Passionate about **Full Stack Web Development**
-- 🧠 Ask me about **HTML, CSS, JavaScript, React, Node.js**
-- 🔌 Interested in **IoT Projects using ESP32**
-- ✨ Fun fact: I love converting ideas into **interactive, real-world web applications**
+- 🎓 MCA Student at GIFT Autonomous College  
+- 💼 Currently doing an **Industry-Oriented Internship Program supported by Microsoft**  
+- 🌱 Learning **Advanced MERN Stack Development and AI/ML**  
+- 💻 Passionate about **Full Stack Web Development and Intelligent Applications**  
+- 🔌 Interested in **IoT Projects using ESP32**  
+- ✨ I enjoy building **interactive real-world applications**
 
 
 
 ## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+NumPy | Pandas | Scikit-learn  
+
+### 🔌 IoT
+ESP32 | Embedded C  
+
+### 🛠 Tools
+Git | GitHub | VS Code | Jupyter Notebook  
 
 
 
 ## 📌 Projects
 
-- 🌡️ **Digital Thermometer & Display using ESP32 (C Language)**
-- 🌱 **IoT-based Vertical Farming System**
-- 🍽️ **Taste Trail – Food Ordering Website**
+### 🌡️ Digital Thermometer & Display using ESP32
+IoT project using **ESP32 and C** to measure and display temperature in real time.
+
+### 🌱 IoT-Based Vertical Farming System
+Smart farming solution using **ESP32 sensors** to monitor environmental conditions.
+
+### 🍽️ Taste Trail – Food Ordering Website
+Full-stack **MERN application** for browsing menus and ordering food.
+
+### 🎬 Netflix Movie Recommendation System
+AI/ML project using **Python and machine learning algorithms** to recommend movies based on user preferences.
 
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact&theme=tokyonight)
 
 
-⭐ *Turning ideas into responsive, scalable, full-stack web applications*
+
+## 🎯 Goal
+To build **AI-powered and scalable full-stack applications** that solve real-world problems.
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prajyaktapatra.visitor-badge)
+
